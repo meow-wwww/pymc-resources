@@ -10,6 +10,11 @@ All the codes are in jupyter notebooks with the model explained in distributions
 # Notice: 
 This repository is tested under [PyMC](https://github.com/pymc-devs/pymc) v3.8 master with [theano](https://github.com/Theano/Theano) 1.0.4
 
+
+# Exercise Solutions
+
+see [this link](https://drive.google.com/file/d/1Y0FuQ7-EZU3Fbg2OG_0uJy96ylfbmnlk/view)
+
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span>Bayesian Cognitive Modeling in PyMC</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/junpenglao/" property="cc:attributionName" rel="cc:attributionURL">Junpeng Lao</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
